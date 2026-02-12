@@ -1,4 +1,16 @@
-# Bank Account Management System (Tkinter + SQLite + Argon2id)
+# Bank Account Management System 
+(Tkinter + SQLite + Argon2id)
+
+<div align="right">
+
+[![CI](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/actions/workflows/python-ci.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/actions/workflows/python-ci.yml)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![Tests](https://img.shields.io/badge/tests-pytest-brightgreen)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/actions)
+[![License](https://img.shields.io/github/license/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk)
+[![Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/issues)
+
+</div>
 
 A desktop Bank Account Management System built with Python and Tkinter. It supports admin and customer workflows, stores data in SQLite, and secures credentials with **Argon2id** hashing. The UI is intentionally simple and fast, while the backend focuses on correctness and safety.
 
@@ -11,6 +23,8 @@ If you read only this README, you should understand how the system works, how th
 <summary>Pictures</summary>
 
 <br>
+
+<div align=center>
 
 ![](https://imgur.com/yxAGTh6.png)
 
@@ -39,6 +53,8 @@ If you read only this README, you should understand how the system works, how th
 ![](https://imgur.com/cEwk8Ch.png)
 
 ---
+
+</div>
 
 </details>
 
@@ -283,5 +299,3 @@ README.md
 - On Linux, install `python3-tk` via your package manager.
 
 ---
-
-If you want, I can also add a small database viewer or export/report feature next.
