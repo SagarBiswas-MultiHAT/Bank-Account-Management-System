@@ -3,12 +3,12 @@
 
 <div align="right">
 
-[![CI](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/actions/workflows/python-ci.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/actions/workflows/python-ci.yml)
+[![CI](https://github.com/SagarBiswas-MultiHAT/SecureBankingSystem/actions/workflows/python-ci.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/SecureBankingSystem/actions/workflows/python-ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
-[![Tests](https://img.shields.io/badge/tests-pytest-brightgreen)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/actions)
-[![License](https://img.shields.io/github/license/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk)
-[![Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk)](https://github.com/SagarBiswas-MultiHAT/BankingSystem-SQLite-Argon2-PyTk/issues)
+[![Tests](https://img.shields.io/badge/tests-pytest-brightgreen)](https://github.com/SagarBiswas-MultiHAT/SecureBankingSystem/actions)
+[![License](https://img.shields.io/github/license/SagarBiswas-MultiHAT/SecureBankingSystem)](https://github.com/SagarBiswas-MultiHAT/SecureBankingSystem/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/SecureBankingSystem)](https://github.com/SagarBiswas-MultiHAT/SecureBankingSystem)
+[![Issues](https://img.shields.io/github/issues/SagarBiswas-MultiHAT/SecureBankingSystem)](https://github.com/SagarBiswas-MultiHAT/SecureBankingSystem/issues)
 
 </div>
 
